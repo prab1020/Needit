@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Needit" max_length="40" name="x_216620_needit_needit" type="collection">
+        <element display="true" label="Test" mandatory="true" max_length="40" name="test" type="integer"/>
+    </element>
+</database>

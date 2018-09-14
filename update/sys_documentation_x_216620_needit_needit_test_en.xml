@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="test" label="Test" language="en" table="x_216620_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>test</element>
+            <help/>
+            <hint/>
+            <label>Test</label>
+            <language>en</language>
+            <name>x_216620_needit_needit</name>
+            <plural>Tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>prab</sys_created_by>
+            <sys_created_on>2018-09-14 11:55:43</sys_created_on>
+            <sys_id>7a0481650f602300be608e8ce1050ec8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test</sys_name>
+            <sys_package display_value="Needit" source="x_216620_needit">ee84b82d0f202300be608e8ce1050ec4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needit">ee84b82d0f202300be608e8ce1050ec4</sys_scope>
+            <sys_update_name>sys_documentation_x_216620_needit_needit_test_en</sys_update_name>
+            <sys_updated_by>prab</sys_updated_by>
+            <sys_updated_on>2018-09-14 11:55:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
